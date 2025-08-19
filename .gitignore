@@ -210,4 +210,8 @@ __marimo__/
 *.out
 *.pdf 
 *.txt 
-keys.py 
+keys.py .env
+.env.*
+*.pem
+*.key
+*.p8
